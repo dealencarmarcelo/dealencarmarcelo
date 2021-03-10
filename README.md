@@ -2,11 +2,11 @@
   <samp>Hey, I'm Marcelo de Alencar!<br>
     I'm a Backend Developer.
     <br>
+    <br>
     <img src="https://media4.giphy.com/media/hftFT911INdgk/giphy.gif?cid=ecf05e47a4z03gvd2njrno6g0aq3zyqtua8uzkr4xej6ynwr&rid=giphy.gif" width="200" height="200" />    
   </samp>
 </p>
 <p>
-  <br>
   <br>
   <samp>I’m currently working (and learning) with Web Development using:</samp>
   <br>
@@ -41,8 +41,6 @@
 </table>
 
 <br>
-<br>
-
 <p>
   <samp>and not working but learning:</samp>
 </p>
