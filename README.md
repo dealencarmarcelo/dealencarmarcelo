@@ -25,16 +25,16 @@
         <img src="https://cdn.svgporn.com/logos/postgresql.svg" width="40" heigth="40">
       </td>
       <td align="center">
-        <img src="https://cdn.svgporn.com/logos/sentry-icon.svg" width="40" heigth="40">
+        <img src="https://cdn.svgporn.com/logos/javascript.svg" width="40" heigth="40">
+      </td>
+      <td align="center">
+        <img src="https://cdn.svgporn.com/logos/react.svg" width="40" heigth="40">
       </td>
       <td align="center">
         <img src="https://cdn.svgporn.com/logos/heroku-icon.svg" width="40" heigth="40">
       </td>
       <td align="center">
-        <img src="https://cdn.svgporn.com/logos/javascript.svg" width="40" heigth="40">
-      </td>
-      <td align="center">
-        <img src="https://cdn.svgporn.com/logos/react.svg" width="40" heigth="40">
+        <img src="https://cdn.svgporn.com/logos/sentry-icon.svg" width="40" heigth="40">
       </td>
     </tr>
   </tbody>
