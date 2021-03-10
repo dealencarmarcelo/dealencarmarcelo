@@ -89,10 +89,11 @@
 
 <p>
   <samp>
-    ... and more stacks:
-    - <strong>TDD</strong>
-    - <strong>CI/CD</strong>
-    - <strong>Scrum</strong>
+    <br>
+    ... and more stacks:<br>
+    - <strong>TDD</strong><br>
+    - <strong>CI/CD</strong><br>
+    - <strong>Scrum</strong><br>
     - <strong>REST</strong>
   </samp>
 </p>
