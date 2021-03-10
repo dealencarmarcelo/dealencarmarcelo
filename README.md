@@ -1,6 +1,9 @@
 <p>
   <samp>Hey, I'm Marcelo de Alencar!<br>
-    I'm a Backend Developer.</samp><img src="https://media4.giphy.com/media/hftFT911INdgk/giphy.gif?cid=ecf05e47a4z03gvd2njrno6g0aq3zyqtua8uzkr4xej6ynwr&rid=giphy.gif" width="200" height="200" />
+    I'm a Backend Developer.
+    <br>
+    <img src="https://media4.giphy.com/media/hftFT911INdgk/giphy.gif?cid=ecf05e47a4z03gvd2njrno6g0aq3zyqtua8uzkr4xej6ynwr&rid=giphy.gif" width="200" height="200" />    
+  </samp>
 </p>
 <p>
   <br>
@@ -40,7 +43,7 @@
 <br>
 <br>
 
-<p align="center">
+<p>
   <samp>and not working but learning:</samp>
 </p>
 
@@ -57,7 +60,7 @@
 <br>
 <br>
 
-<p align="center">
+<p>
   <samp>You can reach me on:<br><br>
     <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" widht="15" height="15"> <a href="https://www.linkedin.com/in/dealencarmarcelo/">LinkedIn</a> 
   <samp>
