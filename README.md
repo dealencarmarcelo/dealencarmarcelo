@@ -61,10 +61,10 @@
 <p>
   <samp>
     ... and more stacks:
-    - TDD
-    - CI/CD
-    - Scrum
-    - REST
+    - <strong>TDD</strong>
+    - <strong>CI/CD</strong>
+    - <strong>Scrum</strong>
+    - <strong>REST</strong>
   </samp>
 </p>
 
