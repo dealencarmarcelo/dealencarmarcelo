@@ -58,6 +58,16 @@
   </tbody>
 </table>
 
+<p>
+  <samp>
+    ... and more stacks:
+    - TDD
+    - CI/CD
+    - Scrum
+    - REST
+  </samp>
+</p>
+
 <br>
 <p>
   <samp>You can reach me on:<br><br>
