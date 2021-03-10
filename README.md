@@ -1,6 +1,6 @@
 <p>
   <samp>Hey, I'm Marcelo de Alencar!<br>
-    I'm a Backend Developer.
+    I'm a Backend Developer (sometimes frontend :thinking:).
     <br>
     <br>
     <img src="https://media4.giphy.com/media/hftFT911INdgk/giphy.gif?cid=ecf05e47a4z03gvd2njrno6g0aq3zyqtua8uzkr4xej6ynwr&rid=giphy.gif" width="200" height="200" />    
