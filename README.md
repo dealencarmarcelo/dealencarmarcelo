@@ -40,7 +40,6 @@
   </tbody>
 </table>
 
-<br>
 <p>
   <samp>and not working but learning:</samp>
 </p>
