@@ -97,10 +97,19 @@
     - <strong>REST</strong>
   </samp>
 </p>
+<br>
+<p>
+  <samp>
+    ... and I’ve also worked with:<br>
+    - <strong>AngularJS</strong><br>
+    - <strong>AWS ES2</strong><br>
+    - <strong>AWS S3</strong><br>
+  </samp>
+</p>
 
 <br>
 <p>
-  <samp>You can reach me on:<br><br>
+  <samp>That said, you can reach me on:<br><br>
     <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" widht="15" height="15"> <a href="https://www.linkedin.com/in/dealencarmarcelo/">LinkedIn</a> 
   <samp>
   
