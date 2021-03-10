@@ -16,6 +16,29 @@
   <tbody>
     <tr>
       <td align="center">
+        Ruby
+      </td>
+      <td align="center">
+        Rails
+      </td>
+      <td align="center">
+        PostgreSQL
+      </td>
+      <td align="center">
+        JavaScript
+      </td>
+      <td align="center">
+        React/React Native
+      </td>
+      <td align="center">
+        Heroku
+      </td>
+      <td align="center">
+        Sentry
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
         <img alt="Ruby" src="https://cdn.svgporn.com/logos/ruby.svg" width="40" heigth="40">
       </td>
       <td align="center">
@@ -46,6 +69,13 @@
 
 <table>
   <tbody>
+    <tr>
+      <td align="center">
+        NodeJS
+      </td>
+      <td align="center">
+        Docker
+      </td>
     <tr>
       <td align="center">
         <img alt="NodeJS" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="40" heigth="40">
