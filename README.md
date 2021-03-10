@@ -51,6 +51,9 @@
       <td align="center">
         <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="40" heigth="40">
       </td>
+      <td align="center">
+        <img src="https://cdn.svgporn.com/logos/docker-icon.svg" width="40" heigth="40">
+      </td>
     </tr>
   </tbody>
 </table>
