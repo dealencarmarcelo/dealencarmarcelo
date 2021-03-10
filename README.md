@@ -16,25 +16,25 @@
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://cdn.svgporn.com/logos/ruby.svg" width="40" heigth="40">
+        <img alt="Ruby" src="https://cdn.svgporn.com/logos/ruby.svg" width="40" heigth="40">
       </td>
       <td align="center">
-        <img src="https://cdn.svgporn.com/logos/rails.svg" width="60" heigth="50">
+        <img alt="Rails" src="https://cdn.svgporn.com/logos/rails.svg" width="60" heigth="50">
       </td>
       <td align="center">
-        <img src="https://cdn.svgporn.com/logos/postgresql.svg" width="40" heigth="40">
+        <img alt="PostgreSQL" src="https://cdn.svgporn.com/logos/postgresql.svg" width="40" heigth="40">
       </td>
       <td align="center">
-        <img src="https://cdn.svgporn.com/logos/javascript.svg" width="40" heigth="40">
+        <img alt="Javascript" src="https://cdn.svgporn.com/logos/javascript.svg" width="40" heigth="40">
       </td>
       <td align="center">
-        <img src="https://cdn.svgporn.com/logos/react.svg" width="40" heigth="40">
+        <img alt="React" src="https://cdn.svgporn.com/logos/react.svg" width="40" heigth="40">
       </td>
       <td align="center">
-        <img src="https://cdn.svgporn.com/logos/heroku-icon.svg" width="40" heigth="40">
+        <img alt="Heroku" src="https://cdn.svgporn.com/logos/heroku-icon.svg" width="40" heigth="40">
       </td>
       <td align="center">
-        <img src="https://cdn.svgporn.com/logos/sentry-icon.svg" width="40" heigth="40">
+        <img alt="Sentry" src="https://cdn.svgporn.com/logos/sentry-icon.svg" width="40" heigth="40">
       </td>
     </tr>
   </tbody>
@@ -48,10 +48,10 @@
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="40" heigth="40">
+        <img alt="NodeJS" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="40" heigth="40">
       </td>
       <td align="center">
-        <img src="https://cdn.svgporn.com/logos/docker-icon.svg" width="40" heigth="40">
+        <img alt="Docker" src="https://cdn.svgporn.com/logos/docker-icon.svg" width="40" heigth="40">
       </td>
     </tr>
   </tbody>
