@@ -9,7 +9,7 @@
   <samp>I’m currently working (and learning) with Web Development using:</samp>
   <br>
 </p>
-<span align="center">
+<div style="margin: auto">
   <span align="center">
     <img src="https://cdn.svgporn.com/logos/ruby.svg" width="30" heigth="30">
   </span>
@@ -31,7 +31,7 @@
   <span align="center">
     <img src="https://cdn.svgporn.com/logos/react.svg" width="30" heigth="30">
   </span>
-</span>
+</div>
 
 <br>
 <br>
