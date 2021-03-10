@@ -56,8 +56,6 @@
 </table>
 
 <br>
-<br>
-
 <p>
   <samp>You can reach me on:<br><br>
     <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" widht="15" height="15"> <a href="https://www.linkedin.com/in/dealencarmarcelo/">LinkedIn</a> 
