@@ -8,7 +8,7 @@
 </p>
 <p>
   <br>
-  <samp>I’m currently working (and learning) with Web Development using:</samp>
+  <samp>I’m currently working (and learning) with Web Development using some things like:</samp>
   <br>
 </p>
 
