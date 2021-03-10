@@ -10,26 +10,27 @@
   <br>
 </p>
 <span align="center">
-<img src="https://cdn.svgporn.com/logos/ruby.svg" width="30" heigth="30">
-</span>
-<span></span>
-<span align="center">
-  <img src="https://cdn.svgporn.com/logos/rails.svg" width="60" heigth="70">
-</span>
-<span align="center">
-  <img src="https://cdn.svgporn.com/logos/postgresql.svg" width="30" heigth="30">
-</span>
-<span align="center">
-  <img src="https://cdn.svgporn.com/logos/sentry-icon.svg" width="30" heigth="30">
-</span>
-<span align="center">
-  <img src="https://cdn.svgporn.com/logos/heroku-icon.svg" width="30" heigth="30">
-</span>
-<span align="center">
-  <img src="https://cdn.svgporn.com/logos/javascript.svg" width="30" heigth="30">
-</span>
-<span align="center">
-  <img src="https://cdn.svgporn.com/logos/react.svg" width="30" heigth="30">
+  <span align="center">
+    <img src="https://cdn.svgporn.com/logos/ruby.svg" width="30" heigth="30">
+  </span>
+  <span align="center">
+    <img src="https://cdn.svgporn.com/logos/rails.svg" width="60" heigth="70">
+  </span>
+  <span align="center">
+    <img src="https://cdn.svgporn.com/logos/postgresql.svg" width="30" heigth="30">
+  </span>
+  <span align="center">
+    <img src="https://cdn.svgporn.com/logos/sentry-icon.svg" width="30" heigth="30">
+  </span>
+  <span align="center">
+    <img src="https://cdn.svgporn.com/logos/heroku-icon.svg" width="30" heigth="30">
+  </span>
+  <span align="center">
+    <img src="https://cdn.svgporn.com/logos/javascript.svg" width="30" heigth="30">
+  </span>
+  <span align="center">
+    <img src="https://cdn.svgporn.com/logos/react.svg" width="30" heigth="30">
+  </span>
 </span>
 
 <br>
