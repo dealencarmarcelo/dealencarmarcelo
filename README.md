@@ -99,8 +99,9 @@
 </p>
 <br>
 <p>
-  <samp>That said, you can reach me on:<br><br>
-    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" widht="15" height="15"> <a href="https://www.linkedin.com/in/dealencarmarcelo/">LinkedIn</a> 
-  <samp>
+  <samp>That said, you can reach me on:<samp><br><br>
+</p>  
+    
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dealencarmarcelo)
   
-</p>
+
