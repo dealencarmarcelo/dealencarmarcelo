@@ -99,7 +99,7 @@
 </p>
 <br>
 <p>
-  <samp>That said, you can reach me on:<samp><br><br>
+  <samp>That said, you can reach me on:<samp><br>
 </p>  
     
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dealencarmarcelo)
