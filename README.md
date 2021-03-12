@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=dealencarmarcelo&color=431194)
 <p>
   <samp>Hey, I'm Marcelo de Alencar!<br>
     I'm a Backend Developer (sometimes frontend :thinking:).
