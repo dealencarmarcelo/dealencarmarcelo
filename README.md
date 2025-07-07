@@ -4,7 +4,7 @@
   <br>
   <div>
     <p>👨🏻‍💻 I'm a software engineer from Brazil 🇧🇷</p>
-    <p>:coffee: :syringe: I often mix insulin and coffee and turn it into code, mainly Ruby and Python..</p>
+    <p>:coffee: :syringe: I often mix insulin and coffee and turn it into code, mainly <strong>Ruby</strong> and <strong>Python</strong>..</p>
   </div>
 
 ### Connect with me:
