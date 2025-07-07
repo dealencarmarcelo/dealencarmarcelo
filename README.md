@@ -1,6 +1,6 @@
 ## Hello! I'm Marcelo 🤙
 
-  <div><img width="300" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"></div>
+  <div><img width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJ3aGRkOXR0MGFnNjR5MzUyaDJnOXdtOHVnZW9kYWxueWx3M3d3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ixmzSYVKYrHgc/giphy.gif"></div>
   <br>
   <div>
     <p>👨🏻‍💻 I'm a software engineer from Brazil 🇧🇷</p>
