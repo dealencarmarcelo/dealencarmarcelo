@@ -4,5 +4,5 @@
   <br>
   <div>
     <p>👨🏻‍💻 I'm a software engineer from Brazil 🇧🇷</p>
-    <p>:coffee: :syringe: I often mix insulin and coffee and turn it into code, mainly <strong>Ruby</strong> and <strong>Python</strong>..</p>
+    <p>:coffee: :syringe: I take some insulin, drink some coffee, and write some code.
   </div>
